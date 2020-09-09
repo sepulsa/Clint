@@ -15,5 +15,5 @@ notes : pastikan sudah user account github (email alterra) sudah terdaftar di or
 ### How To Access Wordpress Bayar Tagihan Production
 https://info.bayartagihan.id
 
-Fiqri 10/08/2020
+Phoenix Team Bayar Tagihan 10/08/2020
 .
