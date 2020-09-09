@@ -9,7 +9,7 @@ $recipient = "info@bayartagihan.id";
 $subject = "Subscribe";
 
 # RESULT PAGE
-$location = "https://info.bayartagihan.id/Thankyou.html";
+$location = "https://bayartagihan1.000webhostapp.com/Thankyou.html";
 
 
 ## FORM VALUES ##
@@ -28,5 +28,5 @@ mail( $recipient, $subject, $body, "From: $sender" ) or die ("Mail could not be 
 
 ## SHOW RESULT PAGE ##
 
-header( "Location: https://info.bayartagihan.id/Thankyou.html" );
+header( "Location: https://bayartagihan1.000webhostapp.com/Thankyou.html" );
 ?>
